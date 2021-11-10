@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "994950704266-5i8tj3taj1oshtaf6ibjt595ueeho7m3.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfz0gjMUH-kVrKfJ2DSP9L1h1Dq_QnTJY"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:994950704266:ios:ec07df1c411548187c5173", 
+        "android_client_info": {
+          "package_name": "com.coolcard-game"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "coolcardgame.appspot.com", 
+    "project_id": "coolcardgame", 
+    "firebase_url": "https://coolcardgame-default-rtdb.europe-west1.firebasedatabase.app", 
+    "project_number": "994950704266"
+  }
+}
